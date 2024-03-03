@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+}
+
+*{
+  font-family: Gantari;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #B6CB17;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.h_welcomu {
+  display: inline-block;
+  font-family: Gantari;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: center;
+}
+
+welcomu {
+  display: flex;
+  text-align: center;
+}
+
+.log {
+  display: flex;
+  width: 495px;
+  height: 610px;
+  top: 55px;
+  left: 668px;
+  border: #282c34;
+  border-style: dashed;
+  border-color: #282c34;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+span {
+  color: rgb(27, 42, 179);
+  font-weight: bold;
+}
+
+p {
+  font-family: Gantari;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+label {
+  font-family: Gantari;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(60, 68, 72, 1);
+}
